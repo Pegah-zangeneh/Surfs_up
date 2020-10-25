@@ -18,5 +18,5 @@ Summary:
 There is a little difference between June and December temperatures also the average precipations 
 dont change alot during June and December.
  
-![Average_precipitations:](Resources/Average_precipitations.png)     ![Average_temperature:](Resources/Average_temperature.png)
+![Average precipitations:](Resources/Average_precipitations.png)     ![Average temperature:](Resources/Average_temperature.png)
 In conclusion Oahu is a suitable location for the bussiness of surfing and ice cream  year-around.
